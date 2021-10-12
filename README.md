@@ -8,4 +8,4 @@ The model takes previous day's cases and deaths to predict current day's cases. 
 
 #### Model Architecture
 
-![alt text](https://github.com/Aravind-11/Time-Series-Forecasting-Numpy/blob/master/Screenshot%202021-10-12%20at%202.32.50%20P)
+![alt text](https://github.com/Aravind-11/Time-Series-Forecasting-Numpy/blob/master/Screenshot%202021-10-12%20at%202.32.50%20PM.png)
